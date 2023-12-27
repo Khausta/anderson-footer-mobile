@@ -68,7 +68,7 @@ body {
 }
 .footer-mobile__social-item a {
   display: block;
-  width: min(6vw, 50px);
+  width: min(6vw, 60px);
 }
 .footer-mobile__social-item img {
   object-fit: contain;
